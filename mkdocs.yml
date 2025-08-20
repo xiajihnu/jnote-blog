@@ -1,7 +1,7 @@
-site_name: MkDocs Simple Blog
-repo_name: FernandoCelmer/mkdocs-simple-blog
-repo_url: https://github.com/FernandoCelmer/mkdocs-simple-blog
-site_url: https://www.fernandocelmer.com
+site_name: Jnote Blog
+repo_name: xiajihnu/jnote-blog
+repo_url: https://github.com/xiajihnu/jnote-blog
+site_url: https://jnote-blog.pages.dev
 copyright: Fernando Celmer
 
 nav:
@@ -22,6 +22,10 @@ nav:
     - Development:
       - nav/development/development-guide.md
       - nav/development/release-notes.md
+    - 个人笔记:
+      - nav/mynote/internet-access.md
+      - nav/mynote/python-evn.md
+      - nav/mynote/windows-tips.md
 
 theme:
   name: simple-blog
